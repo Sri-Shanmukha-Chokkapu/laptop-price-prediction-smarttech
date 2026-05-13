@@ -13,7 +13,7 @@ The goal is to support pricing decisions, understand feature influence, and iden
 Rows: 1,303  
 Columns: 13  
 Target: Laptop price  
-Source: OdinSchool capstone dataset
+Source: Laptops.csv
 
 ## Tools Used
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
